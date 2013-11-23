@@ -1,0 +1,2 @@
+def makesound()
+	return 'hi'
